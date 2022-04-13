@@ -21,7 +21,7 @@
 # 3. Sass
 # 4. JavaScript {
 ### 1. EvenTListener
-### 2. Local Storage
+### 2. function
 ### 3. Loops
 ### 4. DOM
 #    }
